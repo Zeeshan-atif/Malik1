@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Malik1;
+using MyPrograms;
 
 namespace Malik1Test
 {
